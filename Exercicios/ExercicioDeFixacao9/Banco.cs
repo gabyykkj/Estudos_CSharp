@@ -24,7 +24,7 @@ namespace ExercicioDeFicacao9
         }
 
         public string Titular
-        {
+        { 
             get { return _titular; }
             set
             {
